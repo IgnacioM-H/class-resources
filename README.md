@@ -1,4 +1,4 @@
-# Clas Resources
+# Class Resources
 
 ## Study Tips
 - Take notes during lectures
